@@ -1,0 +1,5 @@
+/home/alex/Projects/VerbatimStringLiteral/VerbatimStringLiteral/bin/Debug/VerbatimStringLiteral.exe
+/home/alex/Projects/VerbatimStringLiteral/VerbatimStringLiteral/bin/Debug/VerbatimStringLiteral.pdb
+/home/alex/Projects/VerbatimStringLiteral/VerbatimStringLiteral/obj/x86/Debug/VerbatimStringLiteral.csprojAssemblyReference.cache
+/home/alex/Projects/VerbatimStringLiteral/VerbatimStringLiteral/obj/x86/Debug/VerbatimStringLiteral.exe
+/home/alex/Projects/VerbatimStringLiteral/VerbatimStringLiteral/obj/x86/Debug/VerbatimStringLiteral.pdb
